@@ -5,10 +5,10 @@ local emoji = '💥️'
 
 -- Atributos
 local attackAttribute = 7
-local defenseAttribute = 1
+local defenseAttribute = 3
 local lifeAttribute = 5
-local speedAttribute = 7
-local inteligenceAttribute = 2
+local speedAttribute = 6
+local inteligenceAttribute = 1
 
 -- Função que recebe um atributo e nos retorna uma barra de progresso em string
 

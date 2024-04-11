@@ -5,7 +5,7 @@
     linhas, ou bloco de comentário
 ]]
 
--- Nessa forma, aparece o comentário no mouse over da variável, função...etc:
+-- Nessa forma abaixo, aparece o comentário no mouse over da variável, função...etc:
 
 ---
 --- Essa é uma constante com o nome do monstro
