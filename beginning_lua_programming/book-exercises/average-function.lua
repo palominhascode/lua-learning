@@ -1,3 +1,5 @@
+-- Calculate the average of two numbers
+
 function average(x,y)
     return (x+y)/2
 end
